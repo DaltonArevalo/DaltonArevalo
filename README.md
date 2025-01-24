@@ -3,7 +3,7 @@
 ![Bienvenido](https://www.unir.net/wp-content/uploads/2024/02/La-importancia-de-la-programacion-segura-o-desarrollo-seguro-de-software.jpg)
 
 [![GitHub Followers](https://img.shields.io/github/followers/tuusuario?style=social)](https://github.com/DaltonArevalo)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dalton_Arévalo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/[tuperfil](https://www.linkedin.com/in/dalton-jesus-arevalo-basantes-9765a323a/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dalton_Arévalo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dalton-jesus-arevalo-basantes-9765a323a/)  
 
 ---  
 
