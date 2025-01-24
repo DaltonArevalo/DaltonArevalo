@@ -55,7 +55,7 @@ _Unidad Educativa Rincón del Saber_
 
 ## 🌟 Encuéntrame en  
 [![GitHub](https://img.shields.io/badge/GitHub-Dalton_Arévalo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaltonArevalo)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dalton_Arévalo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[tuperfil](https://www.linkedin.com/in/dalton-jesus-arevalo-basantes-9765a323a/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dalton_Arévalo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dalton-jesus-arevalo-basantes-9765a323a/)  
 [![Email](https://img.shields.io/badge/Email-dalton.arevalo@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daltonarevalo65@gmail.com)  
 
 ---  
