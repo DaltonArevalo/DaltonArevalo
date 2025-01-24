@@ -1,11 +1,9 @@
 # 👨‍💻 **Dalton Arévalo**  
 ### 🚀 Ingeniero en Software | 💻 Apasionado por el Desarrollo y la Innovación  
+![Bienvenido](https://www.unir.net/wp-content/uploads/2024/02/La-importancia-de-la-programacion-segura-o-desarrollo-seguro-de-software.jpg)
 
-![Bienvenido](https://wallpapers.com/images/hd/programming-hd-2eo94s73hxhwjcta.jpg)  
-
-[![GitHub Followers](https://img.shields.io/github/followers/tuusuario?style=social)](https://github.com/tuusuario)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dalton_Arévalo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)  
-[![Portfolio](https://img.shields.io/badge/Portafolio-Web_Personal-14a1f0?style=flat-square&logo=dev.to&logoColor=white)](https://tuportafolio.com)  
+[![GitHub Followers](https://img.shields.io/github/followers/tuusuario?style=social)](https://github.com/DaltonArevalo)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dalton_Arévalo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/[tuperfil](https://www.linkedin.com/in/dalton-jesus-arevalo-basantes-9765a323a/))  
 
 ---  
 
@@ -56,14 +54,8 @@ _Unidad Educativa Rincón del Saber_
 ---  
 
 ## 🌟 Encuéntrame en  
-[![GitHub](https://img.shields.io/badge/GitHub-Dalton_Arévalo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dalton_Arévalo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)  
-[![Email](https://img.shields.io/badge/Email-dalton.arevalo@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dalton.arevalo@email.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Dalton_Arévalo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaltonArevalo)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dalton_Arévalo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[tuperfil](https://www.linkedin.com/in/dalton-jesus-arevalo-basantes-9765a323a/))  
+[![Email](https://img.shields.io/badge/Email-dalton.arevalo@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daltonarevalo65@gmail.com)  
 
 ---  
-
-## 🎨 Inspiración Visual  
-
-![Proyecto de Programación](https://via.placeholder.com/1200x300?text=Innovación+Tecnológica+|+Desarrollo+de+Software)  
-
---- 
